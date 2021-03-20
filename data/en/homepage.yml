@@ -68,9 +68,7 @@ about_product:
     # about product item loop
     - image : "images/showcase/showcase-4.png"
       title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      content : "Loremprovas onsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumque!"
       button:
         enable : false
         label : "Check Features"
