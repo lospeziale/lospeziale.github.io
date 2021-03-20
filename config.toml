@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://lospeziale.com/"
+baseurl = "/"
 title = "LoSpeziale"
 theme = "vex-hugo"
 # post excert
