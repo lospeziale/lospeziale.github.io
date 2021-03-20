@@ -1,7 +1,7 @@
 ---
-title: "Why You Should Buy a Smart Watch."
+title: "Lò & Cesa, always the best choice."
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-2.png"
+image: "images/showcase/sottaceti.jpg"
 description : "this is a meta description"
 draft: false
 ---

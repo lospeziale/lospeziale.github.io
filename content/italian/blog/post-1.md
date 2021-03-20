@@ -1,7 +1,7 @@
 ---
-title: "Comment choisir la bonne montre pour vous."
+title: "Primo post, daje"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-1.png"
+image: "images/showcase/olio.jpg"
 description : "this is a meta description"
 draft: false
 ---
