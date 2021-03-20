@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Dalla Terra allo Spazio"
   content : "Produciamo poi con cura e creatività sei tipi di prodotti piccanti facendo attenzione alla qualità finale."
-  image : "images/watch.png"
+  image : "images/sbam.png"
   button:
    enable : true
    label : "Tutti i Prodotti"
@@ -12,23 +12,23 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
-  image : "images/watch-2.png"
+  title : "Piccante è meglio"
+  image : "images/salsa.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "caratteristica 1"
     icon : "tf-ion-ios-alarm-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "caratteristica 2"
     icon : "tf-ion-ios-bell-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "caratteristica 3"
     icon : "tf-ion-ios-cart-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
@@ -36,20 +36,19 @@ features:
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "caratteristica 4"
     icon : "tf-ion-ios-alarm-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
     # feature item loop
-  - title : "Elegant Design"
+  - title : "caratteristica 5"
     icon : "tf-ion-ios-bell-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "caratteristica 6"
     icon : "tf-ion-ios-cart-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
 
 ############################# promo ############################
 promo:
@@ -63,11 +62,11 @@ promo:
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Perchè scegliere Lo Speziale"
   items:
     # about product item loop
     - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
+      title : "Perchè lo fa Cesa"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
@@ -78,7 +77,7 @@ about_product:
         
     # about product item loop
     - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
+      title : "E ce sta pure lo zio Lò"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
@@ -106,22 +105,22 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "I nostri clienti parlano per noi"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/lo.png"
+    - name : "Samuele Brugiaferri"
+      designation : "COD Gamer"
+      image : "images/bru.png"
+      content : "Ogni volta che magno piccante Lo Speziale me pija bè. I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in "
+      
+    # testimonial item loop
+    - name : "Francesco Tomassetti"
+      designation : "Cugino di Lò"
+      image : "images/fra.png"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/lo.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/lo.png"
+    - name : "Michele Rossi"
+      designation : "Apicoltore"
+      image : "images/miche.png"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
