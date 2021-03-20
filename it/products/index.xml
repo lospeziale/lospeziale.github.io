@@ -1,83 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All latest Smart Watch on LoSpeziale</title>
+    <title>Tutti i prodotti on LoSpeziale</title>
     <link>/it/products/</link>
-    <description>Recent content in All latest Smart Watch on LoSpeziale</description>
+    <description>Recent content in Tutti i prodotti on LoSpeziale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gabriele Orazi](https://goemon07.github.io/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/it/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
-      <link>/it/products/product-1/</link>
+      <title>Confettura</title>
+      <link>/it/products/confettura/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/it/products/product-1/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/it/products/confettura/</guid>
+      <description>Confettura di peperoncino: addolcisce ma allo stesso tempo lascia una nota piccante.</description>
     </item>
     
     <item>
-      <title>Galaxy Watch</title>
-      <link>/it/products/product-2/</link>
+      <title>Olio piccante</title>
+      <link>/it/products/olio/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/it/products/product-2/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/it/products/olio/</guid>
+      <description>Olio al peperoncino: insaporire i piatti e renderli vivaci al palato non è mai stato così facile.</description>
     </item>
     
     <item>
-      <title>Motorola Watch</title>
-      <link>/it/products/product-4/</link>
+      <title>Polvere piccante</title>
+      <link>/it/products/polvere/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/it/products/product-4/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/it/products/polvere/</guid>
+      <description>Polvere di peperoncino: non può mai mancare nella cucina. Estremamente versatile, è speciale per insaporire e rendere più interessante ogni tipo di piatto.</description>
     </item>
     
     <item>
-      <title>OnePlus Watch</title>
-      <link>/it/products/product-7/</link>
+      <title>Sale piccante</title>
+      <link>/it/products/sale/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/it/products/product-7/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/it/products/sale/</guid>
+      <description>Sale al peperoncino: perfetto per insaporire i piatti. Basta un pizzico di sale ed il gioco è fatto!</description>
     </item>
     
     <item>
-      <title>Oppo Watch</title>
-      <link>/it/products/product-8/</link>
+      <title>Salsa piccante</title>
+      <link>/it/products/salsa/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/it/products/product-8/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/it/products/salsa/</guid>
+      <description>Olio al peperoncino, ottimo per insaporire i piatti e renderli vivaci al palato non è mai stato così facile.</description>
     </item>
     
     <item>
-      <title>Realme Watch</title>
-      <link>/it/products/product-6/</link>
+      <title>Sottaceti</title>
+      <link>/it/products/sottaceti/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/it/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Redmi Watch</title>
-      <link>/it/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/it/products/product-5/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Xiaomi Watch</title>
-      <link>/it/products/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/it/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/it/products/sottaceti/</guid>
+      <description>I sottaceti sono sfiziosi e si sciolgono in bocca. Ottimi per arricchire le tue composizioni, speciali come antipasto.</description>
     </item>
     
   </channel>

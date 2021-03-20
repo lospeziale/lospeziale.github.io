@@ -9,35 +9,43 @@
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gabriele Orazi](https://goemon07.github.io/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
-      <link>/products/product-1/</link>
+      <title>Chili jam</title>
+      <link>/products/jam/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/product-1/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/products/jam/</guid>
+      <description>Chili pepper jam: sweetens but at the same time leaves a spicy note.</description>
     </item>
     
     <item>
-      <title>Best Watch Strap In Your Budget</title>
-      <link>/blog/post-3/</link>
+      <title>Chili peppers pickles</title>
+      <link>/products/pickes/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/blog/post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/products/pickes/</guid>
+      <description>Pickles are tasty and melt in your mouth. Great for enriching your compositions, special as an appetizer.</description>
     </item>
     
     <item>
-      <title>Galaxy Watch</title>
-      <link>/products/product-2/</link>
+      <title>Chili powder</title>
+      <link>/products/powder/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/product-2/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/products/powder/</guid>
+      <description>Chili powder: it can never be missing in the kitchen. Extremely versatile, it is special to flavor and make more interesting every kind of dish.</description>
     </item>
     
     <item>
-      <title>How to choose right watch for you.</title>
+      <title>Chili salt</title>
+      <link>/products/salt/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/products/salt/</guid>
+      <description>Chili salt: perfect for flavoring dishes. Just a pinch of salt and you&amp;rsquo;re done!</description>
+    </item>
+    
+    <item>
+      <title>First post, c&#39;mon!</title>
       <link>/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -47,62 +55,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Motorola Watch</title>
-      <link>/products/product-4/</link>
+      <title>How cool Lo Speziale is</title>
+      <link>/blog/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/product-4/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>OnePlus Watch</title>
-      <link>/products/product-7/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/products/product-7/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Oppo Watch</title>
-      <link>/products/product-8/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/products/product-8/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Realme Watch</title>
-      <link>/products/product-6/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Redmi Watch</title>
-      <link>/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/products/product-5/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Watch That Matters</title>
-      <link>/blog/post-4/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/blog/post-4/</guid>
+      <guid>/blog/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Why You Should Buy a Smart Watch.</title>
+      <title>Lò &amp; Cesa, always the best choice.</title>
       <link>/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -112,12 +75,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Xiaomi Watch</title>
-      <link>/products/product-3/</link>
+      <title>Spicy as hell!!!</title>
+      <link>/blog/post-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>/blog/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Spicy oil</title>
+      <link>/products/oil/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/products/oil/</guid>
+      <description>Chily oil: enhance flavour of your dishes it&amp;rsquo;s never been so easy.</description>
+    </item>
+    
+    <item>
+      <title>Spicy sauce</title>
+      <link>/products/sauce/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/products/sauce/</guid>
+      <description>Spicy sauce: our client&amp;rsquo;s best choice since it can be used everywhere, with all dishes. Try it with meet, vegetables, pasta and toasts to get the most out of it!</description>
     </item>
     
   </channel>
