@@ -8,6 +8,7 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 disableLanguages = [] # disable language from here
+defaultContentLanguage = "it"
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -120,7 +121,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 1
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gabriele Orazi](https://goemon07.github.io/)"
 
@@ -130,6 +131,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageName = "It"
 languageCode = "it-it"
 contentDir = "content/italian"
-weight = 1
+weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gabriele Orazi](https://goemon07.github.io/)"
