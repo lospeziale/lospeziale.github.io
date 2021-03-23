@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All the products on LoSpeziale</title>
+    <title>Tutti i prodotti on LoSpeziale</title>
     <link>/products/</link>
-    <description>Recent content in All the products on LoSpeziale</description>
+    <description>Recent content in Tutti i prodotti on LoSpeziale</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>it-it</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gabriele Orazi](https://goemon07.github.io/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chili jam</title>
-      <link>/products/jam/</link>
+      <title>Confettura</title>
+      <link>/products/confettura/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/jam/</guid>
-      <description>Chili pepper jam: sweetens but at the same time leaves a spicy note.</description>
+      <guid>/products/confettura/</guid>
+      <description>Confettura di peperoncino: addolcisce ma allo stesso tempo lascia una nota piccante.</description>
     </item>
     
     <item>
-      <title>Chili peppers pickles</title>
-      <link>/products/pickes/</link>
+      <title>Olio piccante</title>
+      <link>/products/olio/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/pickes/</guid>
-      <description>Pickles are tasty and melt in your mouth. Great for enriching your compositions, special as an appetizer.</description>
+      <guid>/products/olio/</guid>
+      <description>Olio al peperoncino: insaporire i piatti e renderli vivaci al palato non è mai stato così facile.</description>
     </item>
     
     <item>
-      <title>Chili powder</title>
-      <link>/products/powder/</link>
+      <title>Polvere piccante</title>
+      <link>/products/polvere/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/powder/</guid>
-      <description>Chili powder: it can never be missing in the kitchen. Extremely versatile, it is special to flavor and make more interesting every kind of dish.</description>
+      <guid>/products/polvere/</guid>
+      <description>Polvere di peperoncino: non può mai mancare nella cucina. Estremamente versatile, è speciale per insaporire e rendere più interessante ogni tipo di piatto.</description>
     </item>
     
     <item>
-      <title>Chili salt</title>
-      <link>/products/salt/</link>
+      <title>Sale piccante</title>
+      <link>/products/sale/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/salt/</guid>
-      <description>Chili salt: perfect for flavoring dishes. Just a pinch of salt and you&amp;rsquo;re done!</description>
+      <guid>/products/sale/</guid>
+      <description>Sale al peperoncino: perfetto per insaporire i piatti. Basta un pizzico di sale ed il gioco è fatto!</description>
     </item>
     
     <item>
-      <title>Spicy oil</title>
-      <link>/products/oil/</link>
+      <title>Salsa piccante</title>
+      <link>/products/salsa/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/oil/</guid>
-      <description>Chily oil: enhance flavour of your dishes it&amp;rsquo;s never been so easy.</description>
+      <guid>/products/salsa/</guid>
+      <description>Olio al peperoncino, ottimo per insaporire i piatti e renderli vivaci al palato non è mai stato così facile.</description>
     </item>
     
     <item>
-      <title>Spicy sauce</title>
-      <link>/products/sauce/</link>
+      <title>Sottaceti</title>
+      <link>/products/sottaceti/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/sauce/</guid>
-      <description>Spicy sauce: our client&amp;rsquo;s best choice since it can be used everywhere, with all dishes. Try it with meet, vegetables, pasta and toasts to get the most out of it!</description>
+      <guid>/products/sottaceti/</guid>
+      <description>I sottaceti sono sfiziosi e si sciolgono in bocca. Ottimi per arricchire le tue composizioni, speciali come antipasto.</description>
     </item>
     
   </channel>
