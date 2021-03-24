@@ -119,7 +119,7 @@ mailchimp_form_action = "https://tinyletter.com/lospeziale" # replace this url w
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gabriele Orazi](https://goemon07.github.io/)"
 
@@ -129,6 +129,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageName = "It"
 languageCode = "it-it"
 contentDir = "content/italian"
-weight = 2
+weight = 1
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gabriele Orazi](https://goemon07.github.io/)"
