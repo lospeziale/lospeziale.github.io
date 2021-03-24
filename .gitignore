@@ -9,4 +9,4 @@ builds
 package-lock.json
 Public
 public/
-.content
+resources/_gen/assets/scss/scss/
