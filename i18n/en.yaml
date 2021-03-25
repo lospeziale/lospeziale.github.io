@@ -21,3 +21,9 @@
   
 - id: "your-message"
   translation: "Your Message"
+
+- id: "pagenotfound"
+  translation: "Page Not Found"
+
+- id: "pagenotfound-text"
+  translation: "Sorry, but the link you provided is not available :-("

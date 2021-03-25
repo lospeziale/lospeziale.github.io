@@ -1,1 +1,18 @@
-<p>Cazzo non ce sta</p>
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 text-center mb-5">
+        <h1 class="font-weight-bold">{{ i18n "pagenotfound" }}</h1>
+      </div>
+      <div class="col-lg-10 mb-5">
+        <div class="content">
+          {{ i18n "pagenotfound-text" }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
