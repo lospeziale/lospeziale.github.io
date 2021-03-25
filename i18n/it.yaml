@@ -13,8 +13,11 @@
 - id: "subscribe"
   translation: "Iscriviti"
   
-- id: "subscribe"
-  translation: "Iscriviti"
+- id: "your-name"
+  translation: "Il tuo nome"
+
+- id: "your-email"
+  translation: "La tua email"
   
-- id: "subscribe"
-  translation: "Iscriviti"
+- id: "your-message"
+  translation: "Il tuo messaggio"

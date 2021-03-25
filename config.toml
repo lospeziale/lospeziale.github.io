@@ -42,49 +42,98 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 ###################################### Navigation ######################################
 
 # homepage section menu
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Products"
 url = "products"
 weight = 2
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Blog"
 url = "blog"
 weight = 3
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Review"
 pre = "#"
 url = "testimonial"
 weight = 4
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Contact"
 url = "contact"
 weight = 5
 
 # footer menu
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Blog"
 url = "blog"
 weight = 1
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Contact"
 url = "contact"
 weight = 2
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
 weight = 3
 
-[[menu.footer]]
+[[Languages.en.menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4
+
+
+############## IT #####################
+[[Languages.it.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.it.menu.main]]
+name = "Prodotti"
+url = "products"
+weight = 2
+
+[[Languages.it.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 3
+
+[[Languages.it.menu.main]]
+name = "Recensioni"
+pre = "#"
+url = "testimonial"
+weight = 4
+
+[[Languages.it.menu.main]]
+name = "Contatti"
+url = "contact"
+weight = 5
+
+# footer menu
+[[Languages.it.menu.footer]]
+name = "Blog"
+url = "blog"
+weight = 1
+
+[[Languages.it.menu.footer]]
+name = "Contatti"
+url = "contact"
+weight = 2
+
+[[Languages.it.menu.footer]]
+name = "Termini e Condizioni"
+url = "terms-conditions"
+weight = 3
+
+[[Languages.it.menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy"
 weight = 4
@@ -93,7 +142,7 @@ weight = 4
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "200px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -113,6 +162,7 @@ preloader = "" # use .png , .svg or .gif format
 [params.subscription]
 # mailchimp subsciption
 mailchimp_form_action = "https://tinyletter.com/lospeziale" # replace this url with yours
+contact_email = "telespallabob07@gmail.com"
 
 ################################### English language #####################################
 [Languages.en]
