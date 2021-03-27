@@ -96,7 +96,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
+  bg_image : "images/background.jpg"
   title : "Ricevi le nostre News"
   content : "Rimani aggiornato sui nuovi prodotti o gli eventi dove venirci a trovare!"
   placeholder : "Inserisci la tua email qui"

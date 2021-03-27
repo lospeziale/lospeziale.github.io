@@ -95,7 +95,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
+  bg_image : "images/background.jpg"
   title : "Get Product Updates"
   content : "Stay updated for new products or new events where to meet us!"
   placeholder : "Your Email Address Here"
