@@ -1,10 +1,8 @@
 @import 'mixins';
 
 // Variables
-$primary-font: 'Josefin Sans',
-sans-serif;
-$secondary-font: 'Droid Serif',
-serif;
+$primary-font: 'Amatic SC';
+$secondary-font: 'Open Sans';
 $primary-color: #9A1506;
 $icon-font: 'themefisher-font' !important;
 
@@ -16,7 +14,7 @@ body {
   font-weight: 300;
   line-height: 25px;
   color: #3b4045;
-  font-family: $primary-font;
+  font-family: $secondary-font;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -40,32 +38,47 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: $primary-font;
   font-weight: 300;
   margin: 0px;
 }
 
 h1,
 .h1 {
-  font-size: 44px;
-  line-height: 56px;
+  font-size: 80px;
+  line-height: 88px;
 }
 
 h2,
 .h2 {
-  font-size: 30px;
-  line-height: 35px;
+  font-size: 35px;
+  line-height: 45px;
 }
 
 h3,
 .h3 {
-  font-size: 23px;
-  line-height: 25px;
+  font-size: 35px;
+  line-height: 42px;
 }
 
 h4,
 .h4 {
-  font-size: 20px;
-  line-height: 24px;
+  font-size: 30px;
+  line-height: 35px;
+  font-weight: 400;
+}
+
+h5,
+.h5 {
+  font-size: 27px;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+h6,
+.h6 {
+  font-size: 25px;
+  line-height: 27px;
   font-weight: 400;
 }
 
@@ -128,11 +141,11 @@ a:active {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 70px 0;
 }
 
-.font-size-60 {
-  font-size: 60px;
+.font-size-80 {
+  font-size: 80px;
   line-height: 1.2;
 
   @include mobile {
@@ -166,11 +179,11 @@ a:active {
 
   h2 {
     color: #3c3c3c;
-    padding-bottom: 15px;
+    padding-bottom: 2px;
     text-transform: capitalize;
     font-weight: 700;
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 70px;
+    line-height: 78px;
   }
 
   p {
@@ -185,7 +198,7 @@ a:active {
   padding-bottom: 15px;
   text-transform: capitalize;
   font-weight: 500;
-  font-size: 32px;
+  font-size: 55px;
   line-height: 45px;
 }
 
@@ -229,9 +242,10 @@ a:active {
 }
 
 .nav-link {
-  font-size: 16px;
+  font-size: 25px;
+  font-family: $primary-font;
   font-weight: bold;
-  padding: 10px 20px !important;
+  padding: 10px 22px !important;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -379,7 +393,7 @@ a:active {
 
       h4 {
         font-weight: 700;
-        font-size: 20px;
+        font-size: 27px;
         margin-top: 10px;
       }
     }
@@ -569,6 +583,7 @@ textarea.form-control {
   h5,
   h6 {
     margin-bottom: 10px;
+    font-weight: bold;
   }
 
   ol,ul {
