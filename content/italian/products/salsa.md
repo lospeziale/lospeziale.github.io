@@ -2,9 +2,9 @@
 title: "Salsa piccante"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/salsa.jpg"
-  - "images/salsa.jpg"
-  - "images/salsa.jpg"
+  - "images/showcase/salsa.png"
+  - "images/showcase/salsa.png"
+  - "images/showcase/salsa.png"
 
 # meta description
 description : "this is meta description"

@@ -2,9 +2,9 @@
 title: "Chili powder"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/polvere.jpg"
-  - "images/showcase/polvere.jpg"
-  - "images/showcase/polvere.jpg"
+  - "images/showcase/polvere.png"
+  - "images/showcase/polvere.png"
+  - "images/showcase/polvere.png"
 
 # meta description
 description : "this is meta description"

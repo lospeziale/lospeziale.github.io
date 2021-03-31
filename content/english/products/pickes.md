@@ -2,9 +2,9 @@
 title: "Chili peppers pickles"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/sottaceti.jpg"
-  - "images/showcase/sottaceti.jpg"
-  - "images/showcase/sottaceti.jpg"
+  - "images/showcase/sottaceti.png"
+  - "images/showcase/sottaceti.png"
+  - "images/showcase/sottaceti.png"
 
 # meta description
 description : "this is meta description"

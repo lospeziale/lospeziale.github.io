@@ -1,7 +1,7 @@
 ---
 title: "Quanto è figo Lo Speziale"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/polvere.jpg"
+image: "images/showcase/polvere.png"
 description : "this is a meta description"
 draft: false
 ---

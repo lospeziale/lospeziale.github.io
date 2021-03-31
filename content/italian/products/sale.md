@@ -2,9 +2,9 @@
 title: "Sale piccante"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/sale.jpg"
-  - "images/showcase/sale.jpg"
-  - "images/showcase/sale.jpg"
+  - "images/showcase/sale.png"
+  - "images/showcase/sale.png"
+  - "images/showcase/sale.png"
 
 # meta description
 description : "this is meta description"

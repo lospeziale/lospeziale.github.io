@@ -1,7 +1,7 @@
 ---
 title: "Spicy as hell!!!"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/sale.jpg"
+image: "images/showcase/sale.png"
 description : "this is a meta description"
 draft: false
 ---

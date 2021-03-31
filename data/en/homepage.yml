@@ -13,7 +13,7 @@ banner:
 features:
   enable : true
   title : "Spicy is better"
-  image : "images/salsa.jpg"
+  image : "images/showcase/salsa.png"
 
   # feature at the left of the image
   left_side:
@@ -66,7 +66,7 @@ about_product:
   title : "Why Choose Lo Speziale"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
+    - image : "images/showcase/sottaceti.png"
       title : "Because Cesa is making it"
       content : "Loremprovas onsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumqueonsequatur cumquefire!"
       button:
@@ -75,7 +75,7 @@ about_product:
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
+    - image : "images/showcase/sale.png"
       title : "And Lò is in as well"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit

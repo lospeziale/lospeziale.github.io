@@ -1,7 +1,7 @@
 ---
 title: "Lò e Cesa, sempre la scelta migliore."
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/sottaceti.jpg"
+image: "images/showcase/sottaceti.png"
 description : "this is a meta description"
 draft: false
 ---

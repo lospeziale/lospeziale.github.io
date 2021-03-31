@@ -2,9 +2,9 @@
 title: "Olio piccante"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/olio.jpg"
-  - "images/showcase/olio.jpg"
-  - "images/showcase/olio.jpg"
+  - "images/showcase/olio.png"
+  - "images/showcase/olio.png"
+  - "images/showcase/olio.png"
 
 # meta description
 description : "this is meta description"

@@ -13,7 +13,7 @@ banner:
 features:
   enable : true
   title : "Piccante è meglio"
-  image : "images/salsa.jpg"
+  image : "images/showcase/salsa.png"
 
   # feature at the left of the image
   left_side:
@@ -65,7 +65,7 @@ about_product:
   title : "Perchè scegliere Lo Speziale"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
+    - image : "images/showcase/sottaceti.png"
       title : "Perchè lo fa Cesa"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
@@ -76,7 +76,7 @@ about_product:
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
+    - image : "images/showcase/sale.png"
       title : "E ce sta pure lo zio Lò"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit

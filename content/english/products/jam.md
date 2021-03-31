@@ -1,11 +1,11 @@
 ---
 title: "Chili jam"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/confettura.jpg"
+image: "images/showcase/confettura.png"
 images: 
-  - "images/showcase/confettura.jpg"
-  - "images/showcase/confettura.jpg"
-  - "images/showcase/confettura.jpg"
+  - "images/showcase/confettura.png"
+  - "images/showcase/confettura.png"
+  - "images/showcase/confettura.png"
 
 # meta description
 description : "this is meta description"
