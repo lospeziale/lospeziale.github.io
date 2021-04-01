@@ -167,7 +167,7 @@ contact_email = "telespallabob07@gmail.com"
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "en"
 contentDir = "content/english"
 weight = 2
 # copyright
@@ -177,7 +177,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 ################################### Italian language #####################################
 [Languages.it]
 languageName = "It"
-languageCode = "it-it"
+languageCode = "it"
 contentDir = "content/italian"
 weight = 1
 # copyright
