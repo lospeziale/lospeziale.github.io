@@ -12,7 +12,12 @@ office:
 # opennig hour
 opening_hour:
   title : "Vieni a trovarci!"
+  content: "Cerchiamo sempre di essere presenti agli eventi locali nelle Marche e non solo."
   day_time:
     - "Non ci sono eventi in programma."    
 draft: false
+
+social:
+  title : "Social"
+  content: "Non perderti neanche un post. Seguici!"  
 ---

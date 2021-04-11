@@ -162,20 +162,21 @@ preloader = "" # use .png , .svg or .gif format
 [params.subscription]
 # mailchimp subsciption
 mailchimp_form_action = "https://tinyletter.com/lospeziale" # replace this url with yours
-contact_email = "telespallabob07@gmail.com"
+contact_email = "lospeziale.piccanteria@gmail.com"
 
 # social
 [params.instagram]
 name = "Instagram"
+id = "@lo.speziale"
 icon = "images/icons/ig.png"
 url = "https://www.instagram.com/lo.speziale/"
-width = "65px"
+width = "50px"
 
 [params.facebook]
 name = "Facebook"
 icon = "images/icons/fb.png"
 url = "https://www.facebook.com/lo.spezialee/"
-width = "65px"
+width = "50px"
 
 ################################### English language #####################################
 [Languages.en]
@@ -184,7 +185,7 @@ languageCode = "en"
 contentDir = "content/english"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gabriele Orazi](https://goemon07.github.io/)"
+copyright = "Developed By [Gabriele Orazi](https://goemon07.github.io/)"
 
 
 ################################### Italian language #####################################
@@ -194,4 +195,4 @@ languageCode = "it"
 contentDir = "content/italian"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gabriele Orazi](https://goemon07.github.io/)"
+copyright = "Sviluppato da [Gabriele Orazi](https://goemon07.github.io/)"

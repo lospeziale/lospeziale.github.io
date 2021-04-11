@@ -18,8 +18,24 @@
       </div>
       {{ end }}
       <div class="col-lg-3 col-sm-6 mb-5">
+        {{ with .Params.social }}
+        <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+        {{ end }}
+
+        <ul class="list-unstyled contact-list">
+          {{with site.Params.instagram}}
+          <li class="mb-3"><a href="{{ .url | absLangURL }}"><img src="{{ .icon | absURL }}" alt="{{ .name }}" width="{{ .width }}"></a><span></span><a href="{{ .url | absLangURL }}">{{ .id }}</a></li>
+          {{end }}
+          {{with site.Params.facebook }} <li class="mb-3"><a href="{{ .url | absLangURL }}"><img src="{{ .icon | absURL }}" alt="{{ .name }}" width="{{ .width }}"></a></li>{{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
         {{ with .Params.opening_hour }}
         <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
         <ul class="list-unstyled">
           {{ range .day_time }}
           <li class="mb-2">{{ . | markdownify }}</li>
