@@ -164,6 +164,19 @@ preloader = "" # use .png , .svg or .gif format
 mailchimp_form_action = "https://tinyletter.com/lospeziale" # replace this url with yours
 contact_email = "telespallabob07@gmail.com"
 
+# social
+[params.instagram]
+name = "Instagram"
+icon = "images/icons/ig.png"
+url = "https://www.instagram.com/lo.speziale/"
+width = "65px"
+
+[params.facebook]
+name = "Facebook"
+icon = "images/icons/fb.png"
+url = "https://www.facebook.com/lo.spezialee/"
+width = "65px"
+
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"

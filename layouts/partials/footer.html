@@ -3,7 +3,15 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <a href="{{ site.BaseURL | relLangURL }}" class="mb-4 d-inline-block">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} {{ .Title }} {{ end }}</a>
+          <a href="{{ site.BaseURL | relLangURL }}" class="mb-2 d-inline-block">{{ if site.Params.logo }} <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" {{with site.Params.logo_width}}width="{{.}}"{{end}}> {{ else }} {{ .Title }} {{ end }}</a>
+          <ul class="list-inline footer-menu">
+            <li class="list-inline-item">
+              {{with site.Params.instagram}}<a class="mb-2 d-inline-block" href="{{ .url | absLangURL }}"><img src="{{ .icon | absURL }}" alt="{{ .name }}" width="{{ .width }}"></a>{{ end }}
+            </li>
+            <li class="list-inline-item">
+              {{with site.Params.facebook}}<a class="mb-2 d-inline-block" href="{{ .url | absLangURL }}"><img src="{{ .icon | absURL }}" alt="{{ .name }}" width="{{ .width }}"></a>{{ end }}
+            </li>
+          </ul>
           <ul class="list-inline footer-menu">
             {{ range site.Menus.footer }}
             <li class="list-inline-item">
