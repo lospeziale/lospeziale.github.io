@@ -7,17 +7,25 @@ images:
   - "images/showcase/polvere.png"
 
 # meta description
-description : "this is meta description"
+description : "Polvere di peperoncino"
 
 # product Price
-price: "7.00"
+price: "6.00"
 #discount_price: "5.50"
 
 # product variation
 colors : ["carolina","habanero"]
-sizes : ["small","medium"]
+#sizes : ["small","medium"]
 
 draft: false
 ---
 
-Polvere di peperoncino: non può mai mancare nella cucina. Estremamente versatile, è speciale per insaporire e rendere più interessante ogni tipo di piatto.
+La polvere piccante è uno di quei prodotti che non può mai mancare nella cucina. Estremamente versatile, è speciale per insaporire e rendere più interessante ogni tipo di piatto!
+
+Non basta che scegliere tra le 5 varietà che abbiamo a disposizione:
+- Se amate il piccante estremo la polvere al Carolina Reaper è quella giusta per voi. Ma ATTENZIONE!! Potreste prendere letteralmente fuoco se non la dosate bene. Solo per i più impavidi!!!🔥🔥🔥🔥
+- Il mix Habanero Chocolate e Seven Pot Chocolate dal colore inconfondibilmente marrone ha un sapore amarognolo ed un'alta piccantezza🔥🔥🔥
+Infine, le restanti sono perfette per aromatizzare senza che il piccante prevalga nel sapore finale:
+- Fatalii Red-Habanero Red🔥🔥; 
+- Fatalii Yellow🔥🔥 
+- Bahamian Goat🔥🔥 

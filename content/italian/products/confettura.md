@@ -8,17 +8,36 @@ images:
   - "images/showcase/confettura.png"
 
 # meta description
-description : "this is meta description"
+description : "Confettura di peperoncino"
 
 # product Price
-price: "6.50"
-discount_price: "6.00"
+price: "6.00"
+#discount_price: "6.00"
 
 # product variation
 colors : ["carolina","habanero"]
-sizes : ["small","medium","large"]
+sizes : ["110g"]
 
 draft: false
 ---
 
-Confettura di peperoncino: addolcisce ma allo stesso tempo lascia una nota piccante.
+Se volete un prodotto che addolcisca ma allo stesso tempo lasci una nota piccante, la confettura fa al caso vostro!
+
+In base al livello di piccantezza che più preferite, avete la possibilità di scegliere fra 3 tipi di confetture:
+
+**Jalapeño,Bacio di Satana, Campana,Calabrese e Cayenne:**
+
+- mix che compone la confettura rossa. 
+- Delicata e dal sapore unico
+- ha una bassa piccantezza🔥
+
+**Aji Amarillo e Cgn21500:**
+
+- La confettura dal color arancione 
+- ha, rispetto alle altre, una piccantezza intermedia🔥🔥
+
+**Bulgarian carrot e Fatalii Yellow:**
+
+- La gialla
+- per il 70% Bulgarian carrot e il 30% Fatalii yellow. 
+- Ha la piccantezza più estrema rimanendo comunque moderata per le sue note fruttate🔥🔥🔥.
