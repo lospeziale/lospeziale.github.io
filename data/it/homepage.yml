@@ -104,19 +104,36 @@ testimonial:
   title : "I nostri clienti parlano per noi"
   testimonial_item:
     # testimonial item loop
-    - name : "Samuele Brugiaferri"
-      designation : "COD Gamer"
-      image : "images/bru.png"
-      content : "Ogni volta che magno piccante Lo Speziale me pija bè. I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in "
+    - name : "Chiara Ferretti"
+      designation : "da Facebook"
+      image : "images/chiara_ferretti.jpg"
+      content : "Prodotti eccezionali! 🔝Piccanti al punto giusto,🌶️ adatti a insaporire una vasta gamma di pietanze🥘🌯🍱🍣🍝🍚. 
+Confezionati con cura, risultano perfetti anche come idee regalo. 🎁Con il valore aggiunto del km 0 👍. 
+Li consiglio ...\"caldamente\"🔥😉"
       
     # testimonial item loop
-    - name : "Francesco Tomassetti"
-      designation : "Cugino di Lò"
-      image : "images/fra.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Francesco Simoni"
+      designation : "da Facebook"
+      image : "images/francesco_simoni.jpg"
+      content : "Puntualità nella spedizione e merce di qualità ad un ottimo prezzo. Consigliatissimo! 🌶"
       
     # testimonial item loop
-    - name : "Michele Rossi"
-      designation : "Apicoltore"
-      image : "images/miche.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Alessandro Mazzini"
+      designation : "da Facebook"
+      image : "images/alessandro_mazzini.jpg"
+      content : "Abbiamo comprato diverse qualità di peperoncini.
+Soddisfatti per tutte le tipologie.
+Personale gentilissimo e molto disponibile.
+Ho trovato il mio rivenditore di peperoncini di fiducia."
+
+    # testimonial item loop
+    - name : "Andrea Mascitti"
+      designation : "da Facebook"
+      image : "images/andrea_mascitti.jpg"
+      content : "Consigliatissimo!!! Prodotti di ottima qualità"
+
+    # testimonial item loop
+    - name : "Massimiliano Lupacchini"
+      designation : "da Facebook"
+      image : "images/massimiliano_lupacchini.jpg"
+      content : "Qualità top. Cliente fisso."      
