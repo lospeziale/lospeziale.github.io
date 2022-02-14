@@ -22,6 +22,12 @@
 - id: "your-message"
   translation: "Your Message"
 
+- id: "types"
+  translation: "Type"
+
+- id: "size"
+  translation: "Size"
+
 - id: "pagenotfound"
   translation: "Page Not Found"
 

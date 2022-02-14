@@ -25,5 +25,11 @@
 - id: "pagenotfound"
   translation: "Pagina non trovata"
 
+- id: "types"
+  translation: "Varietà"
+
+- id: "size"
+  translation: "Dimensione"
+
 - id: "pagenotfound-text"
   translation: "Scusa, ma il link che hai inserito non è corretto :-("

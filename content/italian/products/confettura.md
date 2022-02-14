@@ -15,7 +15,7 @@ price: "6.00"
 #discount_price: "6.00"
 
 # product variation
-colors : ["carolina","habanero"]
+colors : ["Jalapeño,Bacio di Satana, Campana,Calabrese e Cayenne","Aji Amarillo e Cgn21500", "Bulgarian carrot e Fatalii Yellow"]
 sizes : ["110g"]
 
 draft: false
