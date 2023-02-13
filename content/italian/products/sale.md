@@ -14,7 +14,12 @@ price: "3.00"
 # discount_price: "4.00"
 
 # product variation
-colors : ["carolina","habanero"]
+colors : [
+  "Habanero Chocolate",
+  "Habanero Yellow",
+  "Habanero Red",
+  "Black panther Orange"
+]
 # sizes : ["small"]
 
 draft: false
@@ -22,12 +27,16 @@ draft: false
 
 Dopo la polvere e l'olio piccante ecco un altro condimento perfetto per insaporire i piatti. Basta un pizzico di sale ed il gioco è fatto! 
 
-Tre dei Sali sono all’Habanero, peperoncini che si differenziano per il loro colore ma tutti e tre perfetti per condire grazie al loro sapore fruttato con sentori di agrumi ed un aroma tipicamente floreale:
+**Habanero Chocolate 🔥🔥**
 
-- Habanero Chocolate 🔥🔥; 
-- Habanero Yellow 🔥🔥
-- Habanero Red 🔥🔥 
+**Habanero Yellow 🔥🔥**
 
-Infine, l’ultimo sale è composto da un peperoncino nato dall’incrocio tra il Pimenta Da Neyde ed il Bhut Jolokia. La pianta con foglie viola e bacche dai colori dall'arancione al viola riescono, una volta raccolti, a rendere unico questo sale che tra le quattro varietà ha la piccantezza più alta:
+**Habanero Red 🔥🔥**
 
-- Black panther Orange 🔥🔥🔥 
+Tre dei Sali sono all’Habanero, peperoncini che si differenziano per il loro colore ma tutti e tre perfetti per condire grazie al loro sapore fruttato con sentori di agrumi ed un aroma tipicamente floreale.
+
+---
+
+**Black panther Orange 🔥🔥🔥**
+
+Infine, l’ultimo sale è composto da un peperoncino nato dall’incrocio tra il Pimenta Da Neyde ed il Bhut Jolokia. La pianta con foglie viola e bacche dai colori dall'arancione al viola riescono, una volta raccolti, a rendere unico questo sale che tra le quattro varietà ha la piccantezza più alta.
